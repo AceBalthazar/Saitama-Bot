@@ -1,0 +1,15 @@
+{
+  "adminID": "insert your ID here",
+  "author": {
+    "name": "Ace Balthazar"
+  },
+  "BalthazarToken": "insert bot token here",
+  "BotID": "209303754158243840",
+  "description": "Saitama",
+  "main": "app.js",
+  "name": "saitama",
+  "prefix": "s?",
+  "version": "0.1.2",
+  "YouTubeAPIkey": "Redacted",
+  "YouTubeID": "Redacted" 
+}
